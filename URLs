@@ -1,0 +1,14 @@
+1-Mirth channel monitoring 
+https://github.com/teamzerolabs/mirth_channel_exporter/blob/master/main.go#L5
+2-A noob's guide to write prometheus exporter
+https://rsmitty.github.io/Prometheus-Exporters/
+3-Prometheus metrics type
+https://prometheus.io/docs/concepts/metric_types/
+4-Parsing HTML tags
+https://drstearns.github.io/tutorials/tokenizing/
+https://pkg.go.dev/golang.org/x/net/html
+5-Go lang tutorial (Gamed)
+https://www.practical-go-lessons.com/chap-35-build-an-http-client
+6-JSON
+https://www.tutorialspoint.com/how-to-parse-json-files-in-golang
+https://www.sohamkamani.com/golang/json/
